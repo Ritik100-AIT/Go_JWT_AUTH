@@ -1,8 +1,9 @@
 package main
 
 import (
-	routes "Go_JWT_AUTH/routes"
 	"os"
+
+	routes "github.com/Ritik100-AIT/Go_JWT_AUTH/routes"
 
 	"github.com/gin-gonic/gin"
 )
